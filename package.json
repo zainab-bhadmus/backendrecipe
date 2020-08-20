@@ -1,0 +1,25 @@
+{
+  "name": "recipeapp",
+  "version": "1.0.0",
+  "description": "CRUD Recipe app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainab-bhadmus/backendforrecipeapplication.git"
+  },
+  "author": "Zainab Bhadmus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zainab-bhadmus/backendforrecipeapplication/issues"
+  },
+  "homepage": "https://github.com/zainab-bhadmus/backendforrecipeapplication#readme",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "cors": "2.8.5",
+    "nodemon": "^1.19.1"
+  }
+}
